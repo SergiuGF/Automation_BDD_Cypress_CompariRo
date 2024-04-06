@@ -1,0 +1,26 @@
+{
+  "valid": {
+    "email": "testingemail2352@gmail.com",
+    "password": "Passfortesting123!"          
+  },
+  "invalid": {
+    "username": "Admin",
+    "password": "Admin"
+  },
+  "new": {
+    "email": "newtestingemail2352@gmail.com",
+    "password": "Password8910"
+  },
+  "url": {
+    "registerPage": "https://www.compari.ro/inregistrare/",
+    "loginPage": "https://www.compari.ro/login/",
+    "accountPage": "https://www.compari.ro/users/452083/#settings-account",
+    "homePage": "https://www.compari.ro/",
+    "cartPage": "https://checkout.compari.ro/",
+    "coffeMachinePage": "https://www.compari.ro/cafetiere-filtre-de-cafea-c3174/philips/ep2236-40-p590842329/"
+
+
+
+  }
+
+}
